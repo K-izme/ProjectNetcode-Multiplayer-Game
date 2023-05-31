@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Unshootable
+  - Shootable
+  - enemy
+  - LocalPlayer
+  - playerhealthslider
+  - SpawnPoint
+  - Enemy
+  - DeadEnemy
+  - Map
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - enemy
+  - SolidObjects
+  - PlayerUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Land
+    uniqueID: 3755553783
+    locked: 0
+  - name: Floor
+    uniqueID: 1669726307
+    locked: 0
+  - name: 'Wall '
+    uniqueID: 2969465227
+    locked: 0
+  - name: Low_object
+    uniqueID: 2728290865
+    locked: 0
+  - name: Object
+    uniqueID: 4062137153
+    locked: 0
+  - name: Player
+    uniqueID: 1175026149
+    locked: 0
